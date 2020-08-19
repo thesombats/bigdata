@@ -1,0 +1,31 @@
+.. Big Data documentation master file, created by
+   sphinx-quickstart on Mon Aug 17 19:48:37 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Big Data
+====================================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: เนื้อหา:
+
+   ch01intro/index
+   ch02system/index
+   ch03taxonomy/index
+   ch04dimension/index
+   ch05strength/index
+   ch06tools/index
+   ch07collection/index
+   ch08preprocessing/index
+   ch09dataanalysis/index
+   ch10prediction/index
+   ch11casestudy/index
+
+ดัชนีและตาราง
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
